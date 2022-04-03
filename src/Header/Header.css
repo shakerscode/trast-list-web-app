@@ -1,0 +1,19 @@
+/* using row css for this website */
+
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 2px 3px 10px gray;
+    position: sticky;
+    top: 0;
+}
+
+.menu-section{
+    font-size: 20px; 
+}
+.menu-section a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
