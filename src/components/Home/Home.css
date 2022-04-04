@@ -27,12 +27,12 @@
     font-size: 20px;
     padding: 15px 20px;
     font-size: 17px;
-    background-color: rgb(129, 255, 129);
+    background-color: rgb(168, 248, 255);
     cursor: pointer;
 }
 
 .home-container-left button:hover{
-    border: 1px solid green;
+    border: 1px solid rgb(168, 248, 255);
     background-color: white;
 }
 .review-section{
@@ -51,9 +51,9 @@
     border: none;
     margin-top: 10px;
     font-size: 17px;
-    background-color: rgb(129, 255, 129);
+    background-color: rgb(168, 248, 255);
 }
 .review-btn:hover{
     background-color: white;
-    border: 1px solid green;
+    border: 1px solid rgb(168, 248, 255);
 }
