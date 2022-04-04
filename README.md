@@ -2,6 +2,19 @@
 
 This is my project live site link: [TrustList Web App](https://trust-list-review-website.netlify.app).
 
+## What I actually did in this website?
+I actually did some basic things from react and react router. Read the points below,
+
+* At first I installed all the things that i needed. I install react and rect router dom.
+* Simply made a navigation bar and a logo section. Then designed home section.
+* I used row css in this website. Don't use any css framework.
+* I made some review data and shown it. Home page have 3 reviews and others are in Review page.
+* I made some chart via Rechart. I installed it and used it with the data that given to my with this project. 
+* Than simply i created the blog section. 
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
