@@ -3,6 +3,7 @@
         "id": 1,
         "name": "Leanne Graham",
         "username": "Bret",
+        "rating": 5,
         "img": "https://img.freepik.com/free-photo/confident-pretty-business-woman-with-arms-crossed_1262-2992.jpg",
         "review": "Surrounded by beneath approx 1000 natural plants it has an amazing ambience. The seating is wonderful. The choice of food multitude. Cocktail n Mocktails just superb. The quality of food superb and into our satisfaction. The smiling services added the taste of the food n ambience. A must visit place when in Jaipur."
     },
@@ -10,6 +11,7 @@
         "id": 2,
         "name": "Ervin Howell",
         "username": "Antonette",
+        "rating": 4.5,
         "img": "https://img.freepik.com/free-photo/photo-attractive-ginger-man-with-satisfied-expression-has-thick-beard_273609-18615.jpg",
         "review": "I have been to this place lately .... and let me tell you its one of the amazing place you can find in the town....from ambience to food to service eveything about this place is just perfect....drinks that they serve are so refresing.... food is delicious my favourite starter was crispy kamal kakdi and potato bouche .... presentation was also good... talking about the ambience it gives you so positive vibes with greenery all around .... service was just perfect ... staff is well trained and ready to serve you with a smile..... kudos to the night jar ... i have fallen in love with this place ... will definetly visit again and again and again."
     },
@@ -17,6 +19,7 @@
         "id": 3,
         "name": "Clementine Bauch",
         "username": "Samantha",
+        "rating": 5,
         "img": "https://img.freepik.com/free-photo/smiling-confident-businesswoman-posing-with-arms-folded_1262-20950.jpg",
         "review": "The place is very well set up the plantation concept is exceptionally good. The menu is well balanced and the food portions are good. The food taste good and the drinks menu is also very big. Excellent staff behavior and service. The cutlery is good, we almost stole the bottle."
     },
@@ -24,6 +27,7 @@
         "id": 4,
         "name": "Patricia Lebsack",
         "username": "Karianne",
+        "rating": 5,
         "img": "https://img.freepik.com/free-photo/newcomer-get-know-teammates-pleased-good-looking-businesswoman-transparent-glasses-blue-collar-shirt-smiling-broadly-assuring-good-quality-product-gray-wall_176420-25024.jpg",
         "review": "We had an awesome time listening to live music with our 3 year old. The food and service was awesome and the ambience and setup makes the place worth visiting. The place is best for hanging out and is also super friendly for families, they have various sections where you can sit and enjoy your food and drinks."
     },
@@ -31,6 +35,7 @@
         "id": 5,
         "name": "Chelsey Dietrich",
         "username": "Kamren",
+        "rating": 5,
         "img": "https://img.freepik.com/free-photo/successful-businesswoman-working-laptop-computer-thinks-new-ideas-her-office-dressed-up-white-clothes_231208-4811.jpg?size=626&ext=jpg",
         "review": "This place is really beautiful amazing ambience well equipped with nature imprints. It feels to be great therein. I really enjoyed a lot food is also really amazing I loved the cocktails here also shakes are awesome. In food I liked the most dal makhni and chur chur paratha."
     },
@@ -38,6 +43,7 @@
         "id": 6,
         "name": "Dennis Schulist",
         "username": "Smith",
+        "rating": 4.5,
         "img": "https://img.freepik.com/free-photo/handsome-young-businessman-suit_273609-6513.jpg",
         "review": "This restaurant was a stunning surprise! It is located in a rooftop dining space, whose main decorative feature is a network of PVC tubes that have been planted with all sorts of hanging plants--it is both modern and and green. One feels that one is dining in a forest, albeit one with a distinctly modern vibe. The menu is expansive (there is Indian food, pizza, Western food) and the food was very good. It is family-friendly--I saw families with their children, even late at night. A large TV screen is on one end of the restaurant. My only complaint is that the noise level was rather high--it is a lively place!"
     }
