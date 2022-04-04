@@ -1,9 +1,10 @@
 import React from 'react';
+import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div>
-            <img src="https://i.pinimg.com/originals/fd/78/c4/fd78c47f2a009df65b5b5a46f4437399.png" alt=""  />
+        <div className='not-found-img'>
+            <img src="https://img.freepik.com/free-vector/error-404-concept-landing-page_52683-19458.jpg" alt="" />
         </div>
     );
 };
