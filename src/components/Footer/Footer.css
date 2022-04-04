@@ -1,0 +1,10 @@
+.footer-sec{
+    background-color: rgba(5, 5, 22, 0.724);
+    height: 100px;
+    margin: auto;
+}
+.footer-sec h6{
+    padding: 30px;
+    font-size: 15px;
+   color: white;
+}
