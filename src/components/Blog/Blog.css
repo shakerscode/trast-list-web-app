@@ -11,3 +11,11 @@
     padding: 10px;
     box-shadow: 1px 1px 10px gainsboro;
 }
+
+@media screen and (max-width: 650px){
+    .blog-section{
+        grid-template-columns: 1fr;
+
+    }
+    
+}

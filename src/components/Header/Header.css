@@ -19,3 +19,15 @@
     font-weight: 400;
     margin-right: 25px;
 }
+
+@media screen and (max-width: 650px){
+    .header-container{
+        display: block;
+        margin-top: 0;
+    }
+    .menu-section a{
+        display: block;
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+}

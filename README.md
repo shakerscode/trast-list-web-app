@@ -11,6 +11,7 @@ I actually did some basic things from react and react router. Read the points be
 * I made some review data and shown it. Home page have 3 reviews and others are in the Review page.
 * I made some chart via Rechart. I installed it and used it with the data that given to me with this project. 
 * Than simply i created the blog section. 
+* Installed react font awesome for icon
 
 
 

@@ -18,6 +18,7 @@
 
 .second-img-container{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
      
@@ -56,4 +57,17 @@
 .review-btn:hover{
     background-color: white;
     border: 1px solid rgb(168, 248, 255);
+}
+
+@media screen and (max-width: 650px){
+    .home-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 20rem;
+    }
+    .review{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 40px;
+    }
 }
